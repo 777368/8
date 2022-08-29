@@ -2,27 +2,27 @@
     "urls": [
         {
             "url": "https://gitea.com/00/6/raw/branch/3/28.json",
-            "name": "腾讯线路①"
+            "name": "github①"
         },
         {
             "url": "https://gitea.com/00/6/raw/branch/3/bb.json",
-            "name": "腾讯线路②"
+            "name": "github②"
         },
         {
             "url": "https://gitea.com/00/6/raw/branch/3/g9.json",
-            "name": "腾讯线路③"
+            "name": "github③"
         },
         {
             "url": "https://gitea.com/00/6/raw/branch/3/gg.json",
-            "name": "腾讯线路④"
+            "name": "github④"
         },
         {
             "url": "https://gitea.com/00/6/raw/branch/3/ggg.json",
-            "name": "腾讯线路⑤"
+            "name": "github⑤"
         },
         {
             "url": "https://gitea.com/00/6/raw/branch/3/sgf.json",
-            "name": "腾讯线路⑥"
+            "name": "github⑥"
         }
     ],
     "vip": [
