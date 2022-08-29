@@ -1,0 +1,34 @@
+{
+    "urls": [
+        {
+            "url": "https://gitea.com/00/6/raw/branch/3/28.json",
+            "name": "腾讯线路①"
+        },
+        {
+            "url": "https://gitea.com/00/6/raw/branch/3/bb.json",
+            "name": "腾讯线路②"
+        },
+        {
+            "url": "https://gitea.com/00/6/raw/branch/3/g9.json",
+            "name": "腾讯线路③"
+        },
+        {
+            "url": "https://gitea.com/00/6/raw/branch/3/gg.json",
+            "name": "腾讯线路④"
+        },
+        {
+            "url": "https://gitea.com/00/6/raw/branch/3/ggg.json",
+            "name": "腾讯线路⑤"
+        },
+        {
+            "url": "https://gitea.com/00/6/raw/branch/3/sgf.json",
+            "name": "腾讯线路⑥"
+        }
+    ],
+    "vip": [
+        {
+            "url": "https://gitea.com/00/6/raw/branch/3/mys.json",
+            "name": "白嫖影视"
+        }
+    ]
+}
